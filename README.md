@@ -27,7 +27,7 @@ This bot sends users links to tweets that need to be commented on.</br></br>
 3. Install python dependencies
    ```bash
    # install dependencies from `requirements.txt` file
-   $ pip install -r requirements
+   $ pip install -r requirements.txt
    ```
 
 4. Create `.env` file from example and edit it
